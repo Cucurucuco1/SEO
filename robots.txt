@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cucurucuco1.github.io/seo/sitemap.xml
